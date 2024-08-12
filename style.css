@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(243, 180, 180);
+   }
+   #titulo {
+       color: black;
+       font-size: 45px;
+       text-align: center;
+       text-decoration: underline;
+   }
+   #titulo:hover{
+    color: aliceblue;
+    }
+
+    img {
+        width: 400px;
+        height: 500px;
+        display: block;
+        margin: auto;
+    }
+
+    div.texto {
+        color: black;
+        font-size: 40px;
+        text-align: center;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-bottom: 100px;
+    }
+     
+    #nombre {
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    
+    
+    
+    
+
